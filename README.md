@@ -7,9 +7,9 @@ This program copies the original array into a new array and also creates another
 It demonstrates array copying and reversing techniques in Java.
 
 **Example:**  
-Input → `[1,2,3,4,5]`  
+Input → [1,2,3,4,5]  
 Output →  
-ArrayA: [1, 2, 3, 4, 5]  
+ArrayA: [1, 2, 3, 4, 5]
 ----------------  
 ArrayB: [1, 2, 3, 4, 5]  
 ----------------  
